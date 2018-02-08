@@ -1,0 +1,145 @@
+THIS IS TONGUE IN CHEEK, I DON’T HATE TONY HOARE
+Sir Tony Hoare – Turing Award Winner, Pinball Wizard
+In 1980, Sir Tony was the recipient of the ACM Turing Award, and that is definitely a big deal (the winner gets a trophy AND money). Other recipients include Dijkstra, Knuth, Thompson & Ritchie and Floyd (Robert, not Pink). It would be pretty cool though if Pink Floyd had won.
+
+Anyway, this is how it all went down…
+
+In October of 1980, Sir Tony hopped on a plane bound for Nashville, TN to accept his trophy, grab his cash and have his picture taken with Jimmy Carter. It turns out that part of the deal was that he had to go up on stage and say a bunch of smart stuff before they would give him his money.
+
+Fun Fact: Though the award was presented in Nashville, it was not bestowed by the Academy of Country Music. In fact, it was the Association for Computing Machinery. Don’t worry, that’s an easy mistake to make.
+
+Someone (I assume it was an unpaid intern named Tim) was told “Type down every word Sir Tony says because one day Michael Coupland will want to talk about it at Journal Club.” Tim thought it was pretty ironic that he had to transcribe the speech using a typewriter – you know, because of computers and all. But, he didn’t say anything because he really wanted a good job when he graduated. That turned out to be a wise decision. After graduating he landed a sweet fucking gig – he was Captain of the first “Internet Irony Police Force.”
+
+So, thanks to Tim, we have a complete transcript of all the smart things Sir Tony said that day. The transcript is 13 pages long, so I’m guessing this wasn’t an extemporaneous speech. 13 pages! That’s like 93 index cards. I’ve heard tell that many of the distinguished guests either fell asleep, went to go pee, or snuck out for a smoke. Finally, mercifully, they gave him his money whereupon he shut up and got the hell out of Nashville. By the time he had finished, Carter was no longer in office and Sir Tony’s dream photo-op never came to be.
+
+He obviously had a lot to get off his chest. And, being the bad-ass that he is, we have to assume Sir Tony dropped some top-shelf knowledge on that audience.
+
+What do we find in Tim’s record
+
+Sir Tony begins by letting the audience know what they are in for, giving them time and opportunity to prepare their modest brains to be rocked. To the surprise of absolutely no one, he had decided to talk about himself.
+
+… I would like to talk informally about myself, my personal experiences, my hopes and fears, my modest successes, and my rather less modest failures.
+
+His audience was pretty much captive whereas mine is not. So, I will now attempt to paraphrase the speech (in bullet format just because).
+
+Tony writes some code and falls in love with ALGOL
+He wrote algorithms for the Elliott 803 computer some time between 1960 and 1968
+He thought of a really fast sort algorithm but couldn’t actually write it
+His boss told him to design a new language for the new Elliott 503
+He attended a course in Brighton and fell victim to ALGOL 60′s captivating allure, he also learned about recursion
+Armed with knowledge of recursion, and after months of searching for the perfect name, he was finally able to implement his algorithm – QUICKSORT
+Sir T designs a compiler, the Elliott ALGOL System == 🙂
+He remembered he had to design that software for work and, since writing a language is hard, he and his team decided to implement a subset of ALGOL 60 instead
+He came up with 4 design principles to guide the development of the new compiler
+2 years later the Elliot ALGOL System rocked (moderately)
+Fun Fact: His boss bet “sixpence” that his algorithm wasn’t as fast as claimed. Tony somehow won the bet despite not being able to implement the algorithm. What he did with his winnings has been lost to history.
+
+But it wasn’t lost to me! I was playing cricket last Saturday with Pete Townshend and he mentioned that he had read this post and had an interesting story for me.
+
+Apparently, Pete was in Brighton in 1961 when Hoare was studying ALGOL and actually met the man one night at the local pub. They struck up a conversation and just before last call, Hoare told him what he did with his sixpence.
+
+Two days prior, Hoare was in this same pub, relaxing and having a drink, when suddenly the room got quiet. Hoare turned around and saw a pretty nondescript lad had entered. The barkeeper told him that the kid was from SoHo and was apparently the best pinball player in the land. Now, Hoare is a man of many talents and it just so happens that he is pretty good at the silver ball as well, so he approached the kid and made a wager – his tanner for the kid’s white cane.
+
+Hoare went first and played his finest game ever – turning the table over to the lad with a smug grin. Here the details get a bit sketchy – but I am pretty sure a brawl ensued and that the kid pistol-whipped Hoare’s date with his cane. But, what we do know (thanks to Pete Townshend) is that Hoare lost the bet and his sixpence. Pete was so enthralled by the story that he spent 7 years in Nepal writing an ode to the event.
+
+One day he showed his notes to a local sherpa – the sherpa was fascinated and ran home, grabbed his electric guitar and wrote a much better song – “Pinball Wizard.” Pete later stole the sherpa’s song and included the track on his 1969 album “Tommy.”
+
+Hoare Contributes, Disillusionment Sets In
+
+Sir T was invited to contribute to the future of ALGOL, which made him very happy indeed
+He quickly decides that the working group is not doing things his way and will therefore fail
+He proposes ditching his first principle, but the group disagrees which makes Tony both happy & sad
+The Mariner “space rocket” to Venus got lost but that was FORTRAN’s fault – he had nothing to do with it
+Before abandoning the working group he, created the “case” statement, which he is rightfully proud of
+Back at work – Elliott 503 Mk II == 😦
+Having not yet won the Turing Award and the cash that comes with it, Sir T figures he best get back to work.
+His next task is the Elliott ALGOL System on steroids (FYI… England had no laws restricting steroids in the 60′s)
+Hoare, now in charge of the project, is given 15 programmers and 18 months to produce the Mark II.  After 18 months, he revised the schedule – adding another 3 months.  They missed the new deadline and people got pissed.
+
+So, Sir Tony decided it was time to roll up his sleeves and fix it himself, cowboy-style.  Upon seeing the mess his team had created, he convinces everyone to reduce the scope of the project and give him 4 more months.  Tony then cracked the whip, working his programmers day and night and finally delivered the Mark II.  Unfortunately it was a steaming pile of shit that even the sleaziest of salesmen wouldn’t try to hawk.  Despite numerous attempts, they could not salvage it – it was unfixable.
+
+Sir Tony is the luckiest man in the history of Computer Science.  Why?  His leadership of Mark II resulted in a loss of over 30 man-YEARS of work. Due to heavy abuse of LSD in the 60′s Hoare was not fired and some of the customers even tried to console him.  He felt bad, but hey – IBM & MIT couldn’t manage a project either so he was in good company.  This bears repeating… he wasted over 30 years of work and was not fired.
+
+Hoare Regroups and Succeeds. Moderately
+
+Sir Tony is not off the hook exactly… he is told to start over.  Determined not to fail again, and driven by his strong “Achiever” trait, he starts making lists.  He makes a list of customer complaints and a list of programmer excuses & complaints.
+
+Armed with his list of excuses, he assures us that he is not making excuses.  Hoare addresses the issue of measuring software quality, producing yet another list, this one outlining no less than 17 criteria that good software should meet.
+
+Sir Tony strips the requirements to the bone and declares that he alone determines what lives and what dies.  It takes 2 years but ultimately they prevailed and delivered a finished product.  Within a year they had recovered from the disaster. Within two years, they had some moderately satisfied customers.
+
+T Bone gets Introspective
+
+Sir Tony decides to devote much of his later research to improving the way operating systems are structured.  Rejecting the work of Christopher Strachey and Peter Landin, he focuses on axiomatic, assertional programming.
+
+He is very happy to learn that none other than Alan Turing himself was an advocate of Hoare’s research.  Turing’s support was so strong in fact that he was praising Hoare’s work a full 18 years before Tony actually got around to starting it.
+
+Tony now takes us back to 1966, a happier time when his voice was heard and many successful things were accomplished.
+
+They drafted an excellent and realistic language design (ALGOL X)
+ALGOL X was splendid, making it’s father (ALGOL 60) very proud
+ALGOL X went on to sire the 2nd most important lineage in the history of the world, Abraham’s being first
+Not Again… Will the Insanity Ever End?
+
+Hoare is horrified when he reviews the spec for ALGOL 68.  Apparently he likes to fish so he tosses in a fishing metaphor rather than resorting to swearing.  It’s here in the speech that he drops a few really quotable lines, assuring his future inclusion in Wikipedia.  Despite his attempts to abort it, the chimaera that was ALGOL 68 came to term, leaving Sir Tony no option but to write a dissenting opinion.  A true scholar, Sir Hoare decides to randomly quote a poem – of course he did, why the hell not.
+
+“But scientists, who ought to know
+Assure us that it must be so.
+Oh, let us never, never doubt
+What nobody is sure about.”
+
+The poetry jam is followed by an admission that he once again abandoned the group.  He also admits to being quite pleased when they met with failure.
+
+Hoare Hates Yet Another Language
+
+According to Sir Tony, NPL was absurd and sucked even though they renamed it PL/1.  His thesaurus still warm, he attempts to compare the NPL language specification to an untended garden, or something…  He received a standing ovation for using the word “unaltoyed.”
+
+Fun Fact: ADA includes subroutines written with the express purpose of blowing up major cities in the U.S. In an ironic plot twist that no one saw coming, it uses a QUICKSORT routine to select high-value targets.
+
+Fire & Brimstone, Preach It Brother Tony
+
+ADA… AAAAADDDDDAAAAAA.  “Bring It” they said – “Oh, he done broughten it.”  He tried. He tried to warn them, but they wouldn’t listen.  The anointed Sir Hoare now implores us to call our Senators and demand that the DOD cease & desist.  He reminds us of his beloved PASCAL – the antithesis of ADA – simple, pure, perfect.
+
+ADA must be reigned in, lest humanity be doomed.  T-Bone convinces us that ADA is worse than the Corvair, worse than Aldicarb, worse than Chernobyl.  An unreliable programming language generating unreliable programs constitutes a far greater risk to our environment and to our society than unsafe cars, toxic pesticides, or accidents at nuclear power stations.
+
+The fall of Troy reminds him of that emperor story
+
+Fun Fact: Hoare’s initial draft of this speech actually used Aesop’s “Sour Grapes” fable, but since he had already committed to the emperor title, he went with Anderson’s story. He must have simplified “Sour Grapes” as well – He cited his intense distrust of tortoises and hares as another reason for the switch.
+
+Hoare now butchers an old story.  To be fair, the library was closed that week due to a leaky faucet in the men’s room so he was unable to get his hands on an actual copy.  An expert in the science of making language more simplerer, he transforms the original paragraph into 6 better paragraphs.
+
+The original moral of the story doesn’t really do it for Tony so he free-styles.  Mr. T’s improved version of the story extols the virtue of simplicity and warns of the evil of complexity.  With that, the speech is over and the audience surges as one to the restrooms – 8 people died in the ensuing melee.
+
+I’m 93% sure that my summary is accurate. However, fact-checking is super boring so I didn’t bother. I guess there is a remote possibility, 7% to be exact, that I have unfairly demonized Sir Hoare. His work was done in, and his speech given to, a world that few programmers would recognize today. I should delete this post and start over, but I spent 30 man-years writing it so I might as well publish it. In the meantime…
+
+Hoare hated Strachey more than he hates complexity. No one knows why but the evidence speaks for itself. In this very speech he gives top billing to Lachey’s assistant – Landin. Further evidence can be found much later. In 1975, Strachey died of very mysterious causes. Upon his death, Hoare immediately went to Oxford 2 years later and assumed Strachey’s, now vacant, role as Professor of Computing. Mysteriously, the NCAA refused to investigate the incident.  So, where do we go from here?  Oh, right, I promised to tell you all about…
+
+Hoare’s 4 Design Principles
+
+Towards the beginning of the speech, Hoare enumerates 4 design principles that he followed while writing the Elliott ALGOL System. He attributes the success of that product to strict adherence to these principles.  Hoare was determined to create a compiler that made efficient use of the resources available at the time. He achieved that goal by eliminating everything that wasn’t absolutely necessary and distilling the remaining tasks into their most simple forms.  He was able to make his job easier by choosing to implement a subset of an existing language, ALGOL 60. And, perhaps most importantly, he finally had access to recursive language constructs.  Without the ALGOL 60 concept of recursion, at that time highly controversial, he could not have written this compiler at all.
+
+Hoare’s 4 Design Principles
+
+Security
+Compilers should be very strict, rejecting any syntactically invalid code
+Every routine should return either a valid result or an error message
+Brevity
+Compiled code should be as small as possible
+Data sets used at run-time should be as compact as possible
+Enticing Procedures
+Procedures and functions written in high level languages should be just as efficient as those written in machine code
+There should be no impediments to using subroutines
+Single Pass Compilation
+The compiler must be able to produce machine code in a single pass
+The compiler should consist of a collection of routines, each of which is capable of handling a single syntactic element of the language
+“Every cheap hood strikes a bargain with the world”
+
+It should be noted that Hoare was not running a severe, totalitarian, regime. Rules were relaxed and compromises were made. But, Hoare’s team made an honest, concerted effort to buy in to the design and follow it as closely as they could.  While there is no question that these design principles served him well – he did after all deliver a successful product – I am still left wondering whether or not they are as effective and important now as they were 30 years ago.  Do they stand the test of time?  Eh. Who am I to judge?
+
+It’s way past time to wrap this one up
+
+I went to a lot of effort to poke fun at Hoare, but the reality is that I have a lot of respect for him and I strongly agree with just about everything he went to bat for. Make no mistake – Hoare is a smart guy and my job is a lot easier because of his smartiness and his tenacity. The work he and his colleagues did laid the foundation for how we get things done today and the tools we use to do it.  He was the voice of reason and a champion of keeping it simple. Simple – not to be confused with half-assed or even easy. Just… easier, less complex – code reuse and predictability.
+
+From the man himself: “I conclude that there are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies and the other way is to make it so complicated that there are no obvious deficiencies.”
+
+One final comment.  A side effect of reading his speech, and researching (ha!) this post, was that I spent hours reading about the history of programming. It was fascinating and utterly satisfying. I highly recommend that you call in sick one day, pick a starting page, and just let your curiosity be your guide. You never know what you might find or when it might come in handy.
